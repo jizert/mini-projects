@@ -1,5 +1,4 @@
 import math
-import time
 
 def fibonnaci(n):
     if n == 1:
